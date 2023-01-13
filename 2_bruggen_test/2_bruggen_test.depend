@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1671705861 source:c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\fuse.c
+	<avr/io.h>
+
+1673440944 source:c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\main.c
+	<util/delay.h>
+	"h_bridge.h"
+	"h_bridge1.h"
+	"X-as.h"
+	<avr/io.h>
+
+1671715289 c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\h_bridge.h
+
+1673440172 source:c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1673437924 c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1673440995 source:c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\h_bridge1.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge1.h"
+
+1671715294 c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\h_bridge1.h
+
+1673440327 source:c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\x-as.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"X-as.h"
+
+1673440338 c:\users\kevin\onedrive\bureaublad\hbrug\2_bruggen_test\x-as.h
+
