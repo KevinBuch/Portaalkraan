@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1674477267 source:c:\school\blok 2\portaalkraan\fuse.c
+	<avr/io.h>
+
+1674477959 source:c:\school\blok 2\portaalkraan\x-as.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"X-as.h"
+
+1674477773 c:\school\blok 2\portaalkraan\x-as.h
+
+1674478132 source:c:\school\blok 2\portaalkraan\y-as.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"Y-as.h"
+
+1674478089 c:\school\blok 2\portaalkraan\y-as.h
+
+1674640919 source:c:\school\blok 2\portaalkraan\z-as.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"Z-as.h"
+
+1674478252 c:\school\blok 2\portaalkraan\z-as.h
+
+1674725548 source:c:\school\blok 2\portaalkraan\main.c
+	<util/delay.h>
+	"X-as.h"
+	"Y-as.h"
+	"Z-as.h"
+	<avr/io.h>
+
